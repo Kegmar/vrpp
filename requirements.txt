@@ -19,6 +19,7 @@ torch
 # -------------------------
 matplotlib
 seaborn
+statsmodels
 tensorboard
 tqdm
 
@@ -27,3 +28,8 @@ tqdm
 # -------------------------
 joblib
 cloudpickle
+# -------------------------
+# Supervised_ML
+# -------------------------
+scikit-learn
+
